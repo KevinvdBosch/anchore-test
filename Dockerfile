@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk:8
+FROM azul/zulu-openjdk:19
 
 COPY ebms-admin-2.16.8.jar /app/lib/
 
